@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gorilla/websocket"
+	"github.com/TechVerito/websocket"
 )
 
 // Clients include the necessary info to connect to the server and the underlying socket
